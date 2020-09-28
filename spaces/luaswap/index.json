@@ -1,0 +1,20 @@
+{
+  "key": "luaswap",
+  "name": "luaswap",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "LUA",
+  "defaultView": "all",
+  "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+  "token": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+  "core": [],
+  "min": 1000,
+  "invalid": [],
+  "strategies": [
+    ["uni", {
+      "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+      "symbol": "LUA",
+      "decimals": 18
+    }]
+  ]
+}

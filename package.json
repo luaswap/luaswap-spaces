@@ -1,0 +1,8 @@
+{
+  "name": "@khaihkd/luaswap-spaces",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "khaihkd/luaswap-spaces",
+  "license": "MIT",
+  "files": ["spaces"]
+}
